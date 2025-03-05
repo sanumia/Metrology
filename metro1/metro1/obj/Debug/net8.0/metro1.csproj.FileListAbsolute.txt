@@ -15,3 +15,4 @@ C:\university\metro\metro1\metro1\obj\Debug\net8.0\refint\metro1.dll
 C:\university\metro\metro1\metro1\obj\Debug\net8.0\metro1.pdb
 C:\university\metro\metro1\metro1\obj\Debug\net8.0\metro1.genruntimeconfig.cache
 C:\university\metro\metro1\metro1\obj\Debug\net8.0\ref\metro1.dll
+C:\university\metro\metro1\metro1\obj\Debug\net8.0\metro1.sourcelink.json
