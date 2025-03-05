@@ -1,0 +1,17 @@
+C:\university\metro\metro1\metro1\bin\Debug\net8.0\metro1.exe
+C:\university\metro\metro1\metro1\bin\Debug\net8.0\metro1.deps.json
+C:\university\metro\metro1\metro1\bin\Debug\net8.0\metro1.runtimeconfig.json
+C:\university\metro\metro1\metro1\bin\Debug\net8.0\metro1.dll
+C:\university\metro\metro1\metro1\bin\Debug\net8.0\metro1.pdb
+C:\university\metro\metro1\metro1\bin\Debug\net8.0\Irony.dll
+C:\university\metro\metro1\metro1\obj\Debug\net8.0\metro1.csproj.AssemblyReference.cache
+C:\university\metro\metro1\metro1\obj\Debug\net8.0\metro1.GeneratedMSBuildEditorConfig.editorconfig
+C:\university\metro\metro1\metro1\obj\Debug\net8.0\metro1.AssemblyInfoInputs.cache
+C:\university\metro\metro1\metro1\obj\Debug\net8.0\metro1.AssemblyInfo.cs
+C:\university\metro\metro1\metro1\obj\Debug\net8.0\metro1.csproj.CoreCompileInputs.cache
+C:\university\metro\metro1\metro1\obj\Debug\net8.0\metro1.csproj.Up2Date
+C:\university\metro\metro1\metro1\obj\Debug\net8.0\metro1.dll
+C:\university\metro\metro1\metro1\obj\Debug\net8.0\refint\metro1.dll
+C:\university\metro\metro1\metro1\obj\Debug\net8.0\metro1.pdb
+C:\university\metro\metro1\metro1\obj\Debug\net8.0\metro1.genruntimeconfig.cache
+C:\university\metro\metro1\metro1\obj\Debug\net8.0\ref\metro1.dll

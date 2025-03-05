@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\university\\metro\\metro1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB67730F-F3CE-4592-97CB-FC5AE52C8E25}|metro1\\metro1.csproj|c:\\university\\metro\\metro1\\metro1\\scalagrammar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB67730F-F3CE-4592-97CB-FC5AE52C8E25}|metro1\\metro1.csproj|solutionrelative:metro1\\scalagrammar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB67730F-F3CE-4592-97CB-FC5AE52C8E25}|metro1\\metro1.csproj|c:\\university\\metro\\metro1\\metro1\\metriccalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB67730F-F3CE-4592-97CB-FC5AE52C8E25}|metro1\\metro1.csproj|solutionrelative:metro1\\metriccalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB67730F-F3CE-4592-97CB-FC5AE52C8E25}|metro1\\metro1.csproj|c:\\university\\metro\\metro1\\metro1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB67730F-F3CE-4592-97CB-FC5AE52C8E25}|metro1\\metro1.csproj|solutionrelative:metro1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MetricCalculator.cs",
+              "DocumentMoniker": "C:\\university\\metro\\metro1\\metro1\\MetricCalculator.cs",
+              "RelativeDocumentMoniker": "metro1\\MetricCalculator.cs",
+              "ToolTip": "C:\\university\\metro\\metro1\\metro1\\MetricCalculator.cs",
+              "RelativeToolTip": "metro1\\MetricCalculator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:45:46.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScalaGrammar.cs",
+              "DocumentMoniker": "C:\\university\\metro\\metro1\\metro1\\ScalaGrammar.cs",
+              "RelativeDocumentMoniker": "metro1\\ScalaGrammar.cs",
+              "ToolTip": "C:\\university\\metro\\metro1\\metro1\\ScalaGrammar.cs",
+              "RelativeToolTip": "metro1\\ScalaGrammar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:42:06.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\university\\metro\\metro1\\metro1\\Program.cs",
+              "RelativeDocumentMoniker": "metro1\\Program.cs",
+              "ToolTip": "C:\\university\\metro\\metro1\\metro1\\Program.cs",
+              "RelativeToolTip": "metro1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:58:24.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
