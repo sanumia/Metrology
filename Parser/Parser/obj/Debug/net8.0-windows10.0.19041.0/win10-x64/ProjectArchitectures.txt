@@ -1,1 +1,0 @@
-D:\Универ\Metrology\Parser\Parser\Parser.csproj;x64

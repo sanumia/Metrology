@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ScalaParser.MainPage">
+
+    <ScrollView>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <Label
+                Grid.Column="0"
+                Grid.ColumnSpan="2"
+                Grid.Row="0"
+                FontSize="60"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                Text="Метрики Холстеда"
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level2"
+                SemanticProperties.Description="Метрики Холстеда" />
+            <!--<Image
+                Grid.Column="0"
+                Grid.Row="1"
+                Source="homyak.jpg"
+                HeightRequest="185"
+                Aspect="AspectFit"
+                SemanticProperties.Description="sad homyak" />-->
+            <Editor 
+                x:Name="TextBox"
+                Placeholder = "Введите код на Scala..."
+                Grid.Column="0"
+                Grid.Row="1"
+                Grid.RowSpan="2"
+                FontSize="16" 
+                HeightRequest="200" 
+                TextChanged="TextBox_TextChanged"
+                SemanticProperties.Description="Бокс для вставки кода"/>
+
+            <Label
+                x:Name="ErrorLable"
+                Grid.Column="1"
+                Grid.Row="2"
+                FontSize="60"
+                HorizontalTextAlignment="Center"
+                VerticalTextAlignment="Center"
+                Text="Ошибки"
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level2"
+                SemanticProperties.Description="Есть ли ошибки" />
+
+            <Button
+                x:Name="ParseButton"
+                Grid.Column="1"
+                Grid.Row="1"
+                Text="Парсить код" 
+                FontSize="30"
+                SemanticProperties.Hint="Считать код на Scala"
+                Clicked="OnParseButtonClicked"
+                Margin="20"
+                HorizontalOptions="Fill" />
+
+            <Label
+                x:Name="TableLabel"
+                Grid.Column="0"
+                Grid.ColumnSpan="1"
+                Grid.Row="3"
+                Text="Здесь будет таблица"
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level2"
+                SemanticProperties.Description="Таблица с результатом" />
+        </Grid>
+
+
+    </ScrollView>
+
+</ContentPage>

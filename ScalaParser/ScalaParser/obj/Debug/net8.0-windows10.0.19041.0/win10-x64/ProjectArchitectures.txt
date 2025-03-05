@@ -1,0 +1,1 @@
+D:\Универ\Metrology\ScalaParser\ScalaParser\ScalaParser.csproj;x64
