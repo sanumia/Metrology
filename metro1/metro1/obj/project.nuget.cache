@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "m+NvPtAqRQI=",
+  "dgSpecHash": "o5lCWfT5gcVXgo3PkNQzl7E82wWsxLwv4rTjR6J3NWMT9mK760/ZjG/KIcTt5WGDq7fS9HkU/8ZPfLbJo10SSA==",
   "success": true,
-  "projectFilePath": "C:\\university\\metro\\metro1\\metro1\\metro1.csproj",
+  "projectFilePath": "D:\\Универ\\Metrology\\metro1\\metro1\\metro1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Diana\\.nuget\\packages\\irony\\1.5.3\\irony.1.5.3.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\irony\\1.5.3\\irony.1.5.3.nupkg.sha512"
   ],
   "logs": []
 }
