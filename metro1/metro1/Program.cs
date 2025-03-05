@@ -1,11 +1,7 @@
-﻿using System.Collections.Generic;
-using System.Text.RegularExpressions;
+﻿using System.Numerics;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
-class Program
-{
-    static void Main()
-    {
-        var scalaCode = @"
+string scalaCode = @"
         case class Book(title: String, author: String, var isAvailable: Boolean = true)
 
 class Library {
@@ -90,12 +86,4 @@ object LibraryApp extends App {
 }
 ";
 
-        var metricCalculator = new MetricCalculator();
-var (operators, operands, uniqueOperators, uniqueOperands) = metricCalculator.GetMetrics(scalaCode);
-
-Console.WriteLine($"Total Operators: {operators}");
-Console.WriteLine($"Total Operands: {operands}");
-Console.WriteLine($"Unique Operators: {uniqueOperators}");
-Console.WriteLine($"Unique Operands: {uniqueOperands}");
-    }
-}
+MyScalaAnalyzer.AnalyzeScalaCode(scalaCode);

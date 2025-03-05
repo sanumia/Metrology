@@ -1,82 +1,73 @@
-case class Book(title: String, author: String, var isAvailable: Boolean = true)
+object SimpleScalaApp {
 
-class Library {
-  private var books: List[Book] = List()
-
-  def addBook(title: String, author: String): Unit = {
-    books = Book(title, author) :: books
+  def factorial(n: Int): Int = {
+    if (n <= 1) 1
+    else n * factorial(n - 1)
   }
 
-  def findBook(title: String): Option[Book] = {
-    books.find(_.title == title)
+  def isPrime(n: Int): Boolean = {
+    if (n <= 1) false
+    else if (n == 2) true
+    else !(2 to Math.sqrt(n).toInt).exists(x => n % x == 0)
   }
 
-  def removeBook(title: String): Boolean = {
-    val initialSize = books.size
-    books = books.filterNot(_.title == title)
-    books.size != initialSize
+  def findPrimesInRange(start: Int, end: Int): List[Int] = {
+    (start to end).filter(isPrime).toList
   }
 
-  def checkoutBook(title: String): Boolean = {
-    findBook(title) match {
-      case Some(book) =>
-        if (book.isAvailable) {
-          book.isAvailable = false
-          true
-        } else false
-      case None => false
+  def sumList(numbers: List[Int]): Int = {
+    numbers.foldLeft(0)(_ + _)
+  }
+
+  def findMax(numbers: List[Int]): Int = {
+    numbers.foldLeft(Int.MinValue)((max, num) => if (num > max) num else max)
+  }
+
+  def findMin(numbers: List[Int]): Int = {
+    numbers.foldLeft(Int.MaxValue)((min, num) => if (num < min) num else min)
+  }
+
+  def reverseList[T](list: List[T]): List[T] = {
+    list.foldLeft(List.empty[T])((acc, item) => item :: acc)
+  }
+
+  def isPalindrome(str: String): Boolean = {
+    val cleanedStr = str.replaceAll("\\s", "").toLowerCase
+    cleanedStr == cleanedStr.reverse
+  }
+
+  def fibonacci(n: Int): Int = {
+    def fibHelper(n: Int, a: Int, b: Int): Int = {
+      if (n == 0) a
+      else fibHelper(n - 1, b, a + b)
     }
+    fibHelper(n, 0, 1)
   }
 
-  def returnBook(title: String): Boolean = {
-    findBook(title) match {
-      case Some(book) =>
-        if (!book.isAvailable) {
-          book.isAvailable = true
-          true
-        } else false
-      case None => false
-    }
+  def listToString(numbers: List[Int]): String = {
+    numbers.mkString("[", ", ", "]")
   }
 
-  def listBooks(): List[String] = {
-    books.map { book =>
-      s"${book.title} by ${book.author} (${if (book.isAvailable) "Available" else "Checked Out"})"
-    }
+  def main(args: Array[String]): Unit = {
+    val number = 5
+    println(s"Factorial of $number: ${factorial(number)}")
+
+    val primeCheck = 13
+    println(s"Is $primeCheck a prime number? ${isPrime(primeCheck)}")
+
+    val primesInRange = findPrimesInRange(10, 50)
+    println(s"Prime numbers in the range from 10 to 50: ${listToString(primesInRange)}")
+
+    val numbers = List(3, 1, 4, 1, 5, 9, 2, 6, 5)
+    println(s"Sum of numbers in the list: ${sumList(numbers)}")
+    println(s"Maximum number in the list: ${findMax(numbers)}")
+    println(s"Minimum number in the list: ${findMin(numbers)}")
+    println(s"Reversed list: ${listToString(reverseList(numbers))}")
+
+    val palindromeCheck = "A man a plan a canal Panama"
+    println(s"Is the string '$palindromeCheck' a palindrome? ${isPalindrome(palindromeCheck)}")
+
+    val fibNumber = 10
+    println(s"Fibonacci number at position $fibNumber: ${fibonacci(fibNumber)}")
   }
-}
-
-object LibraryApp extends App {
-  val library = new Library
-
-  library.addBook("1984", "George Orwell")
-  library.addBook("To Kill a Mockingbird", "Harper Lee")
-  library.addBook("The Great Gatsby", "F. Scott Fitzgerald")
-
-  val bookTitle = "1984"
-  library.findBook(bookTitle) match {
-    case Some(book) => println(s"Found: ${book.title} by ${book.author}")
-    case None => println(s"Book '$bookTitle' not found")
-  }
-
-  if (library.checkoutBook(bookTitle)) {
-    println(s"Book '$bookTitle' checked out successfully")
-  } else {
-    println(s"Book '$bookTitle' could not be checked out")
-  }
-
-  if (library.returnBook(bookTitle)) {
-    println(s"Book '$bookTitle' returned successfully")
-  } else {
-    println(s"Book '$bookTitle' could not be returned")
-  }
-
-  if (library.removeBook(bookTitle)) {
-    println(s"Book '$bookTitle' removed successfully")
-  } else {
-    println(s"Book '$bookTitle' could not be removed")
-  }
-
-  println("All books in the library:")
-  library.listBooks().foreach(println)
 }

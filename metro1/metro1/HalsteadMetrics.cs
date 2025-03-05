@@ -1,67 +1,69 @@
-﻿using Irony.Parsing;
+﻿using Antlr4.Runtime.Tree;
 using System;
 using System.Collections.Generic;
 
 public class MetricCalculator
 {
-    private int totalOperators;
-    private int totalOperands;
+    private int totalOperators = 0;
+    private int totalOperands = 0;
     private HashSet<string> uniqueOperators = new HashSet<string>();
     private HashSet<string> uniqueOperands = new HashSet<string>();
 
-    public void CountMetrics(ParseTreeNode node)
+    public void AnalyzeTree(IParseTree node)
     {
-        if (node.Term != null)
+        if (node is TerminalNodeImpl terminal)
         {
-            if (node.Term.Name == "operator")
+            string tokenText = terminal.GetText();
+            int tokenType = terminal.Symbol.Type;
+
+            if (IsOperator(tokenText))
             {
                 totalOperators++;
-                uniqueOperators.Add(node.Term.Name);
+                uniqueOperators.Add(tokenText);
             }
-            else if (node.Term.Name == "operand")
+            else if (IsOperand(tokenText))
             {
                 totalOperands++;
-                uniqueOperands.Add(node.Term.Name);
-            }
-            else if (node.Term.Name == "identifier" || node.Term.Name == "number")
-            {
-                totalOperands++;
-                uniqueOperands.Add(node.Token.Text);
+                uniqueOperands.Add(tokenText);
             }
         }
 
-        foreach (var child in node.ChildNodes)
+        for (int i = 0; i < node.ChildCount; i++)
         {
-            CountMetrics(child);
+            AnalyzeTree(node.GetChild(i));
         }
     }
 
-    public (int operators, int operands, int uniqueOperators, int uniqueOperands) GetMetrics(string scalaCode)
+    private bool IsOperator(string tokenText)
     {
-        var grammar = new ScalaGrammar();
-        var parser = new Parser(grammar);
-        var parseTree = parser.Parse(scalaCode);
+        string[] operators = { "+", "-", "*", "/", "=", "==", "!=", "<", ">", "<=", ">=", "&&", "||", "::", ".", "=>", "match", "def", "object", "if", "else" };
+        return Array.Exists(operators, op => op == tokenText);
+    }
 
-        if (parseTree.HasErrors())
-        {
-            Console.WriteLine("Ошибка парсинга кода Scala:");
-            foreach (var error in parseTree.ParserMessages)
-            {
-                Console.WriteLine($"[Строка {error.Location.Line + 1}, Позиция {error.Location.Column + 1}] {error.Message}");
+    private bool IsOperand(string tokenText)
+    {
+        return char.IsLetter(tokenText[0]) || char.IsDigit(tokenText[0]) || tokenText.StartsWith("\"");
+    }
 
-                // Отображение проблемного кода с указателем на ошибку
-                string[] lines = scalaCode.Split('\n');
-                if (error.Location.Line < lines.Length)
-                {
-                    string errorLine = lines[error.Location.Line];
-                    Console.WriteLine(" " + errorLine);
-                    Console.WriteLine(" " + new string(' ', error.Location.Column) + "^ Здесь ошибка");
-                }
-            }
-            return (0, 0, 0, 0);
-        }
+    public void PrintMetrics()
+    {
+        Console.WriteLine("\n📊 Метрики Холстеда:");
+        Console.WriteLine($"🔹 Total Operators: {totalOperators}");
+        Console.WriteLine($"🔹 Total Operands: {totalOperands}");
+        Console.WriteLine($"🔹 Unique Operators: {uniqueOperators.Count}");
+        Console.WriteLine($"🔹 Unique Operands: {uniqueOperands.Count}");
 
-        CountMetrics(parseTree.Root);
-        return (totalOperators, totalOperands, uniqueOperators.Count, uniqueOperands.Count);
+        double programLength = totalOperators + totalOperands;
+        double vocabularySize = uniqueOperators.Count + uniqueOperands.Count;
+        double volume = programLength * Math.Log2(vocabularySize > 0 ? vocabularySize : 1);
+        double difficulty = (uniqueOperators.Count / 2.0) * (totalOperands / (double)uniqueOperands.Count);
+        double effort = difficulty * volume;
+
+        Console.WriteLine($"\n📏 Дополнительные метрики:");
+        Console.WriteLine($"📌 Program Length: {programLength}");
+        Console.WriteLine($"📌 Vocabulary Size: {vocabularySize}");
+        Console.WriteLine($"📌 Volume: {volume:F2}");
+        Console.WriteLine($"📌 Difficulty: {difficulty:F2}");
+        Console.WriteLine($"📌 Effort: {effort:F2}");
     }
 }

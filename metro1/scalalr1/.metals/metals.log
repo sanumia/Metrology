@@ -580,3 +580,141 @@ WARNING: Unsupported notification method: metals/windowStateDidChange
 2025.03.05 20:53:24 INFO  Shutting down server
 2025.03.05 20:53:24 INFO  shutting down Metals
 2025.03.05 20:53:24 INFO  Exiting server
+2025.03.05 20:55:12 INFO  Started: Metals version 1.5.1 in folders 'C:\university\metro\metro1\scalalr1' for client Visual Studio Code 1.97.2.
+2025.03.05 20:55:13 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.05 20:55:14 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.05 20:55:14 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.05 20:55:14 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 05, 2025 8:55:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Mar 05, 2025 8:56:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 9:29:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 9:29:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.05 21:29:06 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 05, 2025 9:29:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 9:30:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 9:55:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 05, 2025 9:56:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 9:56:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.05 21:56:36 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.05 21:56:36 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.05 21:56:36 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.05 21:56:36 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.05 21:56:36 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.05 21:56:37 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.05 21:56:37 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.05 21:56:37 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 05, 2025 9:56:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 9:57:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 10:03:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.05 22:03:57 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 05, 2025 10:03:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 10:04:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 10:05:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 10:05:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.05 22:05:37 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.05 22:05:37 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.05 22:05:41 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.05 22:05:41 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 05, 2025 10:05:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 10:36:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.05 22:36:35 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 05, 2025 10:36:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.05 22:36:35 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.05 22:36:38 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 05, 2025 10:36:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 10:37:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 10:42:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.05 22:42:17 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 05, 2025 10:42:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 11:54:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 11:54:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.05 23:54:05 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.05 23:54:07 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 05, 2025 11:54:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 11:55:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 11:55:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 11:55:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.05 23:55:46 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 05, 2025 11:55:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 11:56:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 11:58:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 11:58:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.05 23:58:02 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 05, 2025 11:58:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 11:58:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 11:58:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 11:58:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 11:58:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 11:59:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 11:59:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 05, 2025 11:59:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.05 23:59:28 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.05 23:59:28 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.05 23:59:28 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.05 23:59:30 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.05 23:59:30 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.05 23:59:30 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 05, 2025 11:59:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 06, 2025 12:00:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 06, 2025 12:07:39 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 06, 2025 12:07:39 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.06 00:07:39 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.06 00:07:39 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.06 00:07:40 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.06 00:07:40 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.06 00:07:40 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 06, 2025 12:07:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 06, 2025 12:08:50 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 06, 2025 12:09:19 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.06 00:09:19 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.06 00:09:20 INFO  Shutting down server
+2025.03.06 00:09:20 INFO  shutting down Metals
+2025.03.06 00:09:20 INFO  Exiting server

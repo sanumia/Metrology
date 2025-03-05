@@ -8,7 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Antlr4.Runtime.Standard" Version="4.13.1" />
     <PackageReference Include="Irony" Version="1.5.3" />
   </ItemGroup>
+
+  <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
+    <Exec Command="java -jar &quot;$(ProjectDir)Tools\antlr-4.13.2-complete.jar&quot; -Dlanguage=CSharp &quot;$(ProjectDir)Grammar\Scala.g4&quot; -o &quot;$(ProjectDir)Generated&quot;" />
+  </Target>
 
 </Project>
