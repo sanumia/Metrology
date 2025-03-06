@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScalaParser", "ScalaParser\ScalaParser.csproj", "{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScalaParserCORE", "ScalaParserCORE\ScalaParserCORE.csproj", "{A325C01B-33EA-4159-A6C0-89E1E38722DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A325C01B-33EA-4159-A6C0-89E1E38722DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A325C01B-33EA-4159-A6C0-89E1E38722DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A325C01B-33EA-4159-A6C0-89E1E38722DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A325C01B-33EA-4159-A6C0-89E1E38722DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB38CBF9-05F5-475C-A5C2-BEA0A7A76CF6}
+	EndGlobalSection
+EndGlobal

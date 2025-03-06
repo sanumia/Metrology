@@ -6,8 +6,8 @@ public class MetricCalculator
 {
     private int totalOperators = 0;
     private int totalOperands = 0;
-    private HashSet<string> uniqueOperators = new HashSet<string>();
-    private HashSet<string> uniqueOperands = new HashSet<string>();
+    private Dictionary<string, int> operatorCounts = new Dictionary<string, int>();
+    private Dictionary<string, int> operandCounts = new Dictionary<string, int>();
 
     public void AnalyzeTree(IParseTree node)
     {
@@ -19,12 +19,26 @@ public class MetricCalculator
             if (IsOperator(tokenText))
             {
                 totalOperators++;
-                uniqueOperators.Add(tokenText);
+                if (operatorCounts.ContainsKey(tokenText))
+                {
+                    operatorCounts[tokenText]++;
+                }
+                else
+                {
+                    operatorCounts[tokenText] = 1;
+                }
             }
             else if (IsOperand(tokenText))
             {
                 totalOperands++;
-                uniqueOperands.Add(tokenText);
+                if (operandCounts.ContainsKey(tokenText))
+                {
+                    operandCounts[tokenText]++;
+                }
+                else
+                {
+                    operandCounts[tokenText] = 1;
+                }
             }
         }
 
@@ -50,13 +64,13 @@ public class MetricCalculator
         Console.WriteLine("\n📊 Метрики Холстеда:");
         Console.WriteLine($"🔹 Total Operators: {totalOperators}");
         Console.WriteLine($"🔹 Total Operands: {totalOperands}");
-        Console.WriteLine($"🔹 Unique Operators: {uniqueOperators.Count}");
-        Console.WriteLine($"🔹 Unique Operands: {uniqueOperands.Count}");
+        Console.WriteLine($"🔹 Unique Operators: {operatorCounts.Count}");
+        Console.WriteLine($"🔹 Unique Operands: {operandCounts.Count}");
 
         double programLength = totalOperators + totalOperands;
-        double vocabularySize = uniqueOperators.Count + uniqueOperands.Count;
+        double vocabularySize = operatorCounts.Count + operandCounts.Count;
         double volume = programLength * Math.Log2(vocabularySize > 0 ? vocabularySize : 1);
-        double difficulty = (uniqueOperators.Count / 2.0) * (totalOperands / (double)uniqueOperands.Count);
+        double difficulty = (operatorCounts.Count / 2.0) * (totalOperands / (double)operandCounts.Count);
         double effort = difficulty * volume;
 
         Console.WriteLine($"\n📏 Дополнительные метрики:");
@@ -65,5 +79,19 @@ public class MetricCalculator
         Console.WriteLine($"📌 Volume: {volume:F2}");
         Console.WriteLine($"📌 Difficulty: {difficulty:F2}");
         Console.WriteLine($"📌 Effort: {effort:F2}");
+
+        Console.WriteLine("\n📊 Операторы и их количество:");
+        foreach (var op in operatorCounts)
+        {
+            Console.WriteLine($"{op.Key}: {op.Value}");
+        }
+
+        Console.WriteLine("\n📊 Операнды и их количество:");
+        foreach (var operand in operandCounts)
+        {
+            Console.WriteLine($"{operand.Key}: {operand.Value}");
+        }
+        Console.WriteLine($"\n🔸 Общее количество уникальных операторов: {operatorCounts.Count}");
+        Console.WriteLine($"🔸 Общее количество уникальных операндов: {operandCounts.Count}");
     }
 }

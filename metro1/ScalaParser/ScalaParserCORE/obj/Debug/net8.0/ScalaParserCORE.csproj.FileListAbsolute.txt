@@ -1,0 +1,12 @@
+C:\Users\Diana\Downloads\ScalaParser (2)\ScalaParser\ScalaParserCORE\bin\Debug\net8.0\ScalaParserCORE.deps.json
+C:\Users\Diana\Downloads\ScalaParser (2)\ScalaParser\ScalaParserCORE\bin\Debug\net8.0\ScalaParserCORE.dll
+C:\Users\Diana\Downloads\ScalaParser (2)\ScalaParser\ScalaParserCORE\bin\Debug\net8.0\ScalaParserCORE.pdb
+C:\Users\Diana\Downloads\ScalaParser (2)\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\ScalaParserCORE.csproj.AssemblyReference.cache
+C:\Users\Diana\Downloads\ScalaParser (2)\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\ScalaParserCORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana\Downloads\ScalaParser (2)\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\ScalaParserCORE.AssemblyInfoInputs.cache
+C:\Users\Diana\Downloads\ScalaParser (2)\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\ScalaParserCORE.AssemblyInfo.cs
+C:\Users\Diana\Downloads\ScalaParser (2)\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\ScalaParserCORE.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Downloads\ScalaParser (2)\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\ScalaParserCORE.dll
+C:\Users\Diana\Downloads\ScalaParser (2)\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\refint\ScalaParserCORE.dll
+C:\Users\Diana\Downloads\ScalaParser (2)\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\ScalaParserCORE.pdb
+C:\Users\Diana\Downloads\ScalaParser (2)\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\ref\ScalaParserCORE.dll

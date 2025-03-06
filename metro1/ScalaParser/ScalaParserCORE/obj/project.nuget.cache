@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+vfafg2JH+A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diana\\Downloads\\ScalaParser (2)\\ScalaParser\\ScalaParserCORE\\ScalaParserCORE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diana\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}

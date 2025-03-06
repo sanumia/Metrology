@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("metro1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+664b9efe1d58bd7b4d83c6ed9a7bbc705aeb2924")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e9b97c6864254f1684235b6b9d6f6f81a32e3c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("metro1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("metro1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

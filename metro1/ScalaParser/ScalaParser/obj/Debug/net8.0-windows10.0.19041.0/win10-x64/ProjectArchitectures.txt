@@ -1,0 +1,1 @@
+C:\Users\Diana\Downloads\ScalaParser (2)\ScalaParser\ScalaParser\ScalaParser.csproj;x64
