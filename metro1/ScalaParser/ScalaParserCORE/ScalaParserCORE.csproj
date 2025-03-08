@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Antlr4.Runtime.Standard" Version="4.13.1" />
+  </ItemGroup>
+
+  <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
+    <Exec Command="java -jar &quot;$(ProjectDir)Tools\antlr-4.13.2-complete.jar&quot; -Dlanguage=CSharp &quot;$(ProjectDir)Grammar\Scala.g4&quot; -o &quot;$(ProjectDir)Generated&quot;&#xD;&#xA;" />
+  </Target>
+
+</Project>
