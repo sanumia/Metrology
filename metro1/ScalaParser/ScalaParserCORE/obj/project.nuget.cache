@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+vfafg2JH+A=",
+  "dgSpecHash": "r1VWh0mWxQwg/xUzKisl3xxmeA38Fc3ZzPrtL7J88xUxdgiAFoZvqWTNzRJGIKsUpYe9khsKv8XySvK93e9t8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diana\\Downloads\\ScalaParser (2)\\ScalaParser\\ScalaParserCORE\\ScalaParserCORE.csproj",
+  "projectFilePath": "D:\\Универ\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\ScalaParserCORE.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Diana\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512"
   ],
   "logs": []
 }

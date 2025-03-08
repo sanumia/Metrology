@@ -8,29 +8,34 @@
 
             <!-- Заголовок -->
             <Label Text="Метрики Холстеда" FontSize="30" HorizontalOptions="Center" />
+            <Grid ColumnDefinitions="*,*" RowDefinitions="*,*">
+                <!-- Поле для ввода кода -->
+                <Editor x:Name="TextBox" Placeholder="Введите код на Scala..." HeightRequest="200" Grid.Row="0" Grid.RowSpan="2" Grid.Column="0" />
 
-            <!-- Поле для ввода кода -->
-            <Editor x:Name="TextBox" Placeholder="Введите код на Scala..." HeightRequest="150" />
-
-            <!-- Кнопка для парсинга -->
-            <Button Text="Парсить код" Clicked="OnParseButtonClicked" FontSize="20" />
-
+                <!-- Кнопка для парсинга -->
+                <Button Text="Парсить код" Clicked="OnParseButtonClicked" FontSize="20" Grid.Row="0" Grid.Column="1" VerticalOptions="Center" />
+            </Grid>
+           
             <!-- Таблица с операторами и операндами -->
-            <Grid Padding="10" ColumnDefinitions="*,*,*,*" RowDefinitions="Auto">
-                <Label Text="Оператор" FontAttributes="Bold" />
-                <Label Text="Частота" FontAttributes="Bold" Grid.Column="1" />
-                <Label Text="Операнд" FontAttributes="Bold" Grid.Column="2" />
-                <Label Text="Частота" FontAttributes="Bold" Grid.Column="3" />
+            <Grid Padding="10" ColumnDefinitions="*,*,*,*,*,*" RowDefinitions="Auto">
+                <Label Text="Номер (η1)" FontAttributes="Bold" FontSize="16"/>
+                <Label Text="Оператор" FontAttributes="Bold" FontSize="16" Grid.Column="1"  />
+                <Label Text="Частота (N1)" FontAttributes="Bold" FontSize="16" Grid.Column="2" />
+                <Label Text="Номер (η2)" FontAttributes="Bold" FontSize="16" Grid.Column="3" />
+                <Label Text="Операнд" FontAttributes="Bold" FontSize="16" Grid.Column="4" />
+                <Label Text="Частота (N2)" FontAttributes="Bold" FontSize="16" Grid.Column="5" />
             </Grid>
 
             <CollectionView x:Name="MetricsTable">
                 <CollectionView.ItemTemplate>
                     <DataTemplate>
-                        <Grid Padding="5" ColumnDefinitions="*,*,*,*">
-                            <Label Text="{Binding Operator}" />
-                            <Label Text="{Binding OperatorFrequency}" Grid.Column="1" />
-                            <Label Text="{Binding Operand}" Grid.Column="2" />
-                            <Label Text="{Binding OperandFrequency}" Grid.Column="3" />
+                        <Grid Padding="5" ColumnDefinitions="*,*,*,*,*,*">
+                            <Label Text="{Binding OperatorNumber}" FontSize="20" FontFamily="Courier" HeightRequest="20" TextColor="DarkViolet"/>
+                            <Label Text="{Binding Operator}" FontSize="14" FontFamily="Courier" Grid.Column="1" HeightRequest="20"/>
+                            <Label Text="{Binding OperatorFrequency}" FontSize="14" FontFamily="Courier" Grid.Column="2" HeightRequest="20"/>
+                            <Label Text="{Binding OperandNumber}" FontSize="20" FontFamily="Courier" Grid.Column="3"  HeightRequest="20" TextColor="DarkViolet" />
+                            <Label Text="{Binding Operand}" FontSize="14" FontFamily="Courier" Grid.Column="4" HeightRequest="20"/>
+                            <Label Text="{Binding OperandFrequency}" FontSize="14" FontFamily="Courier" Grid.Column="5" HeightRequest="20"/>
                         </Grid>
                     </DataTemplate>
                 </CollectionView.ItemTemplate>

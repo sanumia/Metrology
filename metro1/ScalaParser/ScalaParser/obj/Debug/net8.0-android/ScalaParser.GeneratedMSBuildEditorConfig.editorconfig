@@ -12,47 +12,47 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ScalaParser
-build_property.ProjectDir = C:\Users\Diana\Downloads\ScalaParser (2)\ScalaParser\ScalaParser\
+build_property.ProjectDir = D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/Diana/Downloads/ScalaParser (2)/ScalaParser/ScalaParser/App.xaml]
+[D:/Универ/Metrology/metro1/ScalaParser/ScalaParser/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ScalaParser.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Diana/Downloads/ScalaParser (2)/ScalaParser/ScalaParser/AppShell.xaml]
+[D:/Универ/Metrology/metro1/ScalaParser/ScalaParser/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ScalaParser.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Diana/Downloads/ScalaParser (2)/ScalaParser/ScalaParser/MainPage.xaml]
+[D:/Универ/Metrology/metro1/ScalaParser/ScalaParser/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ScalaParser.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/Diana/Downloads/ScalaParser (2)/ScalaParser/ScalaParser/Platforms/Resources/Styles/Colors.xaml]
+[D:/Универ/Metrology/metro1/ScalaParser/ScalaParser/Platforms/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ScalaParser.Platforms.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Platforms\Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Platforms\Resources\Styles\Colors.xaml
 
-[C:/Users/Diana/Downloads/ScalaParser (2)/ScalaParser/ScalaParser/Platforms/Resources/Styles/Styles.xaml]
+[D:/Универ/Metrology/metro1/ScalaParser/ScalaParser/Platforms/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ScalaParser.Platforms.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Platforms\Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Platforms\Resources\Styles\Styles.xaml
 
-[C:/Users/Diana/Downloads/ScalaParser (2)/ScalaParser/ScalaParser/Resources/Styles/Colors.xaml]
+[D:/Универ/Metrology/metro1/ScalaParser/ScalaParser/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ScalaParser.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/Diana/Downloads/ScalaParser (2)/ScalaParser/ScalaParser/Resources/Styles/Styles.xaml]
+[D:/Универ/Metrology/metro1/ScalaParser/ScalaParser/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ScalaParser.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

@@ -45,6 +45,9 @@ namespace ScalaParser
             bool hasOperators = operatorEnumerator.MoveNext();
             bool hasOperands = operandEnumerator.MoveNext();
 
+            int operatorNum = 0;
+            int operandNum = 0;
+
             while (hasOperators || hasOperands)
             {
                 string operatorText = hasOperators ? operatorEnumerator.Current.Key : "";
@@ -52,16 +55,34 @@ namespace ScalaParser
                 string operandText = hasOperands ? operandEnumerator.Current.Key : "";
                 string operandFreq = hasOperands ? operandEnumerator.Current.Value.ToString() : "";
 
+                if (hasOperators)
+                {
+                    hasOperators = operatorEnumerator.MoveNext();
+                    operatorNum++;
+                };
+                if (hasOperands)
+                {
+                    hasOperands = operandEnumerator.MoveNext();
+                    operandNum++;
+                }
                 metricsData.Add(new
                 {
                     Operator = operatorText,
                     OperatorFrequency = operatorFreq,
                     Operand = operandText,
-                    OperandFrequency = operandFreq
+                    OperandFrequency = operandFreq,
+                    OperatorNumber = operatorNum,
+                    OperandNumber = operandNum
+                }) ;
+                metricsData.Add(new
+                {
+                    Operator = "______________________________",
+                    OperatorFrequency = "______________________________",
+                    Operand = "______________________________",
+                    OperandFrequency = "______________________________",
+                    OperatorNumber = "________________________",
+                    OperandNumber = "________________________"
                 });
-
-                if (hasOperators) hasOperators = operatorEnumerator.MoveNext();
-                if (hasOperands) hasOperands = operandEnumerator.MoveNext();
             }
 
             MetricsTable.ItemsSource = metricsData;
@@ -70,17 +91,17 @@ namespace ScalaParser
             double vocabularySize = metrics.OperatorCounts.Count + metrics.OperandCounts.Count;
             double volume = programLength * Math.Log2(vocabularySize > 0 ? vocabularySize : 1);
 
-            HolstedInfoLabel.Text = $"Словарь программы: {vocabularySize}\n" +
-                                    $"Длина программы: {programLength}\n" +
-                                    $"Объем программы: {volume:F2}";
+            HolstedInfoLabel.Text = $"Словарь программы: η1 + η2 = {metrics.OperatorCounts.Count} + {metrics.OperandCounts.Count} = {vocabularySize}\n" +
+                                    $"Длина программы: N1 + N2 = {metrics.TotalOperators} + {metrics.TotalOperands} = {programLength}\n" +
+                                    $"Объем программы: V = {volume:F2}";
         }
 
     }
     public class MetricsEntry
     {
-        public string Operator { get; set; }
-        public string OperatorFrequency { get; set; }
-        public string Operand { get; set; }
-        public string OperandFrequency { get; set; }
+        public string? Operator { get; set; }
+        public string? OperatorFrequency { get; set; }
+        public string? Operand { get; set; }
+        public string? OperandFrequency { get; set; }
     }
 }
