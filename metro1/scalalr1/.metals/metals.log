@@ -718,3 +718,921 @@ WARNING: Unsupported notification method: metals/windowStateDidChange
 2025.03.06 00:09:20 INFO  Shutting down server
 2025.03.06 00:09:20 INFO  shutting down Metals
 2025.03.06 00:09:20 INFO  Exiting server
+2025.03.19 20:16:25 INFO  Started: Metals version 1.5.1 in folders 'C:\university\metro\metro1\scalalr1' for client Visual Studio Code 1.98.2.
+2025.03.19 20:16:31 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 20:16:36 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 8:17:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 8:22:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 8:22:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 20:22:03 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 20:22:04 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 8:22:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 8:23:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 8:43:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 20:43:43 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 8:43:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 20:43:43 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 20:43:43 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 20:43:45 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 20:43:45 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 20:43:50 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 8:43:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 8:43:52 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\university\metro\metro1\scalalr1\.metals\.reports\metals-full\2025-03-19\r_empty-definition_20-43-52-803.md)
+Mar 19, 2025 8:44:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 8:48:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 8:48:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 20:48:20 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 20:48:21 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 8:48:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 8:48:26 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\university\metro\metro1\scalalr1\.metals\.reports\metals-full\2025-03-19\r_empty-definition_20-43-52-803.md)
+Mar 19, 2025 8:49:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 9:33:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 9:33:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 21:33:42 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 21:33:42 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 21:33:44 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 21:33:44 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 21:33:45 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 9:33:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 9:34:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 9:41:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 9:41:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 21:41:01 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 21:41:01 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 21:41:02 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 9:41:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 9:42:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 9:42:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 9:42:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 9:42:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 9:43:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 9:51:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 21:51:02 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 9:51:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 21:51:03 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 21:51:04 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 21:51:05 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 21:51:05 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 21:51:05 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 21:51:06 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 21:51:06 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 21:51:07 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 21:51:07 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 21:51:08 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 21:51:08 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 21:51:08 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 21:51:14 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 21:51:17 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 9:51:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 9:51:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 21:51:48 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 21:51:48 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 21:52:09 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 9:52:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 9:52:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 9:53:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 9:53:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 21:53:01 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 9:53:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 9:54:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 10:19:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 10:19:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 22:19:53 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:19:53 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:19:53 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 10:19:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 10:21:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 10:37:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 10:37:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 22:37:06 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:37:06 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:37:06 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 10:37:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 10:38:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 10:42:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 10:42:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 22:42:59 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:42:59 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:42:59 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 10:43:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 10:44:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 10:51:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 10:51:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 22:51:19 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:20 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:20 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 10:51:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 101
+2025.03.19 22:51:24 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:24 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:24 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:26 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:26 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:27 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:27 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:51:27 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:28 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:29 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:29 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:29 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:30 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:30 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:30 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:30 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:30 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:31 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:51:32 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:32 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:32 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:32 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:33 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:33 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:33 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:33 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:51:33 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:33 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:34 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:34 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:51:34 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:34 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:34 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:34 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:34 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:35 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:51:35 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:35 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:35 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:35 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:35 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:36 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:36 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:51:36 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:36 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:36 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:37 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:37 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:38 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:51:37 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:38 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:37 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:38 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:39 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:51:39 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:39 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:39 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:40 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:40 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:51:40 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:40 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:40 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:40 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:40 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:40 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:41 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:40 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:41 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:42 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+Mar 19, 2025 10:51:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 198
+2025.03.19 22:51:41 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:41 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:42 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:42 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:43 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:42 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 10:51:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 208
+2025.03.19 22:51:42 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:43 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:42 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:43 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:44 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:51:44 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:44 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:44 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:44 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:44 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:44 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:45 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:51:45 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:45 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:45 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:45 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:45 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:46 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:47 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:47 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:51:47 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:46 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:47 ERROR C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:512)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1306)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:927)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2025.03.19 22:51:46 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:47 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:48 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:51:48 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:48 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:49 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:49 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:49 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:49 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:49 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:51 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:51:51 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:51 ERROR C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:512)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1306)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:927)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2025.03.19 22:51:51 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:51 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:51 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:51 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:51 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:52 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:51:52 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:52 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:52 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:52 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:52 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:52 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:52 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:52 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:53 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:53 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:54 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:54 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:51:54 ERROR C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:512)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1306)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:927)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2025.03.19 22:51:53 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:54 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:54 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:54 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:54 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:55 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:56 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:55 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:55 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:56 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:51:56 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:56 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:57 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:57 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:57 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:57 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:57 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:57 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:58 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:51:58 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:57 ERROR C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:512)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1306)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:927)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2025.03.19 22:51:58 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:58 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:58 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:58 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:58 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:58 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:58 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:59 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:00 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:51:59 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:00 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:52:00 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:00 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:01 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:01 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:01 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:01 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:01 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:01 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:02 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:52:02 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:02 ERROR C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:512)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1306)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:927)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2025.03.19 22:52:02 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:02 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:02 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:02 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:02 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:02 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:02 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:02 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:03 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:52:03 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:03 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:04 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 10:52:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 339
+2025.03.19 22:52:04 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:04 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:04 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:04 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:04 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:05 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:05 ERROR C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:512)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1306)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:927)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2025.03.19 22:52:05 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:52:05 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:05 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:05 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:06 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:06 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:06 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:06 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:06 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:07 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:07 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:52:06 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:07 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:07 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:07 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:07 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:07 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:07 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:09 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:52:09 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:09 ERROR C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:512)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1306)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:927)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2025.03.19 22:52:09 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:09 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:09 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:09 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:09 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:10 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:10 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:10 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:10 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:52:10 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:10 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:10 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:10 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:11 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:11 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:11 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:11 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:11 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:11 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:11 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:11 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 10:52:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 398
+2025.03.19 22:52:12 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:12 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:13 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:52:13 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:13 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:14 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:14 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:14 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:14 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:14 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:15 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:15 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:15 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:15 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:15 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:15 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:16 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:52:16 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:15 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:16 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:15 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:17 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:17 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:17 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:17 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:17 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:17 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:17 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:18 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:52:18 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:18 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:18 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:18 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:18 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:18 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:18 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:19 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:20 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:19 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:19 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:20 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:52:20 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:20 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:21 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:21 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:21 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:22 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:21 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:22 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:52:22 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:22 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:22 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:24 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:28 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:32 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:32 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:32 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:33 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:33 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:33 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:34 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:34 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:35 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:52:35 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:35 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:34 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:34 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:35 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:36 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:36 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:36 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:36 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:52:36 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:36 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:36 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:37 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:37 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:37 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:37 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:37 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:38 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:52:38 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:38 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:38 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:38 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:38 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:38 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:38 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:38 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:39 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:52:39 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:40 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:40 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:40 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:40 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:40 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:40 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:41 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:52:41 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:41 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:42 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:42 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:42 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:42 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:42 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:52:43 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:43 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:46 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:52:51 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 10:52:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 10:53:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 22:53:44 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:53:44 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:54:14 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:54:14 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 10:54:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 10:54:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 10:54:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 10:55:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 10:58:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 10:58:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 22:58:18 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:58:18 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:58:22 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:58:22 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:58:23 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:58:23 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:58:23 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:58:23 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 22:58:24 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.19 22:58:28 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 10:58:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 10:58:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 22:58:30 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 10:58:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 10:58:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 22:58:41 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 10:58:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 10:59:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 11:01:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 11:01:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 11:01:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 11:02:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 11:06:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 11:06:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 23:06:48 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 23:06:48 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 11:06:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 11:06:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 11:06:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 11:08:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 11:30:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 11:30:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 23:30:35 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 23:30:35 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 23:30:41 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 23:30:41 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 11:30:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 11:30:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 23:30:45 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 11:30:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 11:31:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 11:33:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 23:33:20 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 11:33:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 23:33:23 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 23:33:23 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 23:33:26 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 23:33:31 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 23:33:34 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 23:33:34 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 11:33:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 11:34:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 11:52:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 11:52:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 673
+Mar 19, 2025 11:52:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 11:52:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 11:52:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 11:52:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 23:52:37 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 23:52:37 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 23:52:37 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 23:52:41 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 23:52:43 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 23:52:43 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 23:52:44 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 23:52:44 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 23:52:44 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 23:52:48 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 23:52:48 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 11:52:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 11:53:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 23:53:16 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 23:53:16 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 11:53:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 23:53:24 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 11:56:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 23:56:28 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 11:56:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 20, 2025 12:00:11 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.20 00:00:12 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 20, 2025 12:00:13 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 20, 2025 12:00:24 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.20 00:00:25 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Exception in thread "pool-206-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025.03.20 00:00:42 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:00:52 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 20, 2025 12:00:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.20 00:00:52 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:00:53 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:00:55 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:00:55 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:00:55 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:00:55 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:00:55 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:00:55 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:00:55 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:00:56 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 20, 2025 12:00:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 730
+2025.03.20 00:00:56 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:01:33 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:01:44 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 20, 2025 12:02:03 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.20 00:02:11 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 20, 2025 12:02:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 20, 2025 12:02:26 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.20 00:02:27 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 20, 2025 12:02:47 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 20, 2025 12:03:07 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.20 00:03:19 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:03:19 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:03:19 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 20, 2025 12:03:27 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.20 00:03:28 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:03:29 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 20, 2025 12:03:29 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\university\metro\metro1\scalalr1\.metals\.reports\metals-full\2025-03-19\r_empty-definition_20-43-52-803.md)
+Mar 20, 2025 12:03:29 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 20, 2025 12:04:27 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 20, 2025 12:04:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 20, 2025 12:04:38 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 20, 2025 12:04:39 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.20 00:05:20 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 20, 2025 12:05:20 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.20 00:05:20 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:05:20 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 20, 2025 12:05:28 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 20, 2025 12:05:44 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.20 00:05:44 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:05:49 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:05:49 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:05:50 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 20, 2025 12:05:52 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 20, 2025 12:06:18 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.20 00:06:28 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:07:31 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:07:31 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:07:32 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:07:45 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:07:45 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:08:14 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:08:14 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:08:15 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:08:15 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 20, 2025 12:08:49 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.20 00:08:50 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 20, 2025 12:08:50 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.20 00:08:50 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.20 00:08:51 WARN  no build target for: C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala
+2025.03.20 00:08:51 INFO  no build target found for C:\university\metro\metro1\scalalr1\src\main\scala\example\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 20, 2025 12:08:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 20, 2025 12:08:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 20, 2025 12:08:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 20, 2025 12:10:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-// Generated from D:/Универ/Metrology/metro1/ScalaParser/ScalaParserCORE/Grammar/Scala.g4 by ANTLR 4.13.2
+// Generated from C:/university/metro/metro1/ScalaParser/ScalaParserCORE/Grammar/Scala.g4 by ANTLR 4.13.2
 
 // Unreachable code detected
 #pragma warning disable 0162

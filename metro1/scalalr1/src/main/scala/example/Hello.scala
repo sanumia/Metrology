@@ -1,5 +1,3 @@
-object SimpleScalaApp {
-
   def factorial(n: Int): Int = {
     if (n <= 1) 1
     else n * factorial(n - 1)
@@ -70,4 +68,3 @@ object SimpleScalaApp {
     val fibNumber = 10
     println(s"Fibonacci number at position $fibNumber: ${fibonacci(fibNumber)}")
   }
-}

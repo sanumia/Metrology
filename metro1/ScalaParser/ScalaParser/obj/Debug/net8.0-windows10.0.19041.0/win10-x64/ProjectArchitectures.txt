@@ -1,1 +1,1 @@
-D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\ScalaParser.csproj;x64
+C:\university\metro\metro1\ScalaParser\ScalaParser\ScalaParser.csproj;x64

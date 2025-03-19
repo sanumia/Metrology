@@ -23,3 +23,16 @@ D:\Универ\Metrology\metro1\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\Sc
 D:\Универ\Metrology\metro1\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\refint\ScalaParserCORE.dll
 D:\Универ\Metrology\metro1\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\ScalaParserCORE.pdb
 D:\Универ\Metrology\metro1\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\ref\ScalaParserCORE.dll
+C:\university\metro\metro1\ScalaParser\ScalaParserCORE\bin\Debug\net8.0\ScalaParserCORE.deps.json
+C:\university\metro\metro1\ScalaParser\ScalaParserCORE\bin\Debug\net8.0\ScalaParserCORE.dll
+C:\university\metro\metro1\ScalaParser\ScalaParserCORE\bin\Debug\net8.0\ScalaParserCORE.pdb
+C:\university\metro\metro1\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\ScalaParserCORE.csproj.AssemblyReference.cache
+C:\university\metro\metro1\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\ScalaParserCORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\university\metro\metro1\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\ScalaParserCORE.AssemblyInfoInputs.cache
+C:\university\metro\metro1\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\ScalaParserCORE.AssemblyInfo.cs
+C:\university\metro\metro1\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\ScalaParserCORE.csproj.CoreCompileInputs.cache
+C:\university\metro\metro1\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\ScalaParserCORE.sourcelink.json
+C:\university\metro\metro1\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\ScalaParserCORE.dll
+C:\university\metro\metro1\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\refint\ScalaParserCORE.dll
+C:\university\metro\metro1\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\ScalaParserCORE.pdb
+C:\university\metro\metro1\ScalaParser\ScalaParserCORE\obj\Debug\net8.0\ref\ScalaParserCORE.dll

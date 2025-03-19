@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScalaParserCORE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6bc82721591ba2cbf3ff67b394ca2f4c454c54b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+744af8126d0d5769768756c1b9bf797d7c54a0d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScalaParserCORE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScalaParserCORE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

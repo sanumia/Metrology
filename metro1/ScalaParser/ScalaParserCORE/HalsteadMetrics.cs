@@ -1,4 +1,6 @@
 ﻿using Antlr4.Runtime.Tree;
+using System;
+using System.Collections.Generic;
 
 namespace ScalaParserCORE
 {
@@ -13,6 +15,9 @@ namespace ScalaParserCORE
         private int totalOperands = 0;
         private Dictionary<string, int> operatorCounts = new Dictionary<string, int>();
         private Dictionary<string, int> operandCounts = new Dictionary<string, int>();
+
+        private bool insideIf = false;
+        private bool insideMatch = false;
 
         public void AnalyzeTree(IParseTree node)
         {
@@ -46,27 +51,57 @@ namespace ScalaParserCORE
 
         private bool IsOperator(string tokenText)
         {
-            string[] operators = {
+            HashSet<string> operators = new HashSet<string>
+            {
                 "+", "-", "*", "/", "=", "==", "!=", "<", ">", "<=", ">=",
-                "&&", "||", "::", ".", "=>", "match", "def", "val", "var",
-                "if", "else", "while", "for", "yield", "map", "filter",
-                "foreach", "reduce", "foldLeft", "zip", "mkString"
+                "&&", "||", "::", ".", "=>", "<-", "++", "--", "+=", "-=", "*=",
+                "/=", ",", ":", ";", "_", "def", "val", "var", "while", "for",
+                "yield", "foreach"
             };
-            return Array.Exists(operators, op => op == tokenText);
+
+            if (tokenText == "if")
+            {
+                insideIf = true;
+                return true;
+            }
+
+            if (tokenText == "else" && insideIf)
+            {
+                insideIf = false;
+                return false; // else уже учтён вместе с if
+            }
+
+            if (tokenText == "match")
+            {
+                insideMatch = true;
+                return true;
+            }
+
+            if (tokenText == "case" && insideMatch)
+            {
+                insideMatch = false;
+                return false; // case уже учтён вместе с match
+            }
+
+            return operators.Contains(tokenText);
         }
 
         private bool IsOperand(string tokenText)
         {
-            // Если токен - число
             if (int.TryParse(tokenText, out _) || double.TryParse(tokenText, out _))
                 return true;
 
-            // Если токен - строка в кавычках
-            if (tokenText.StartsWith("\"") && tokenText.EndsWith("\""))
+            if ((tokenText.StartsWith("\"") && tokenText.EndsWith("\"")) ||
+            (tokenText.StartsWith("\"\"") && tokenText.EndsWith("\"\"")))
                 return true;
 
-            // Если токен - переменная (идентификатор)
-            return char.IsLetter(tokenText[0]) || tokenText.StartsWith("_");
+            HashSet<string> keywords = new HashSet<string>
+            {
+                "def", "val", "var", "if", "else", "while", "for", "match", "case", "class",
+                "object", "trait", "extends", "with", "new", "return", "yield"
+            };
+
+            return !keywords.Contains(tokenText) && (char.IsLetter(tokenText[0]) || tokenText.StartsWith("_") || tokenText.Contains("."));
         }
     }
 }
