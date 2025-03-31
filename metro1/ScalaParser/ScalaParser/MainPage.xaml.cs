@@ -1,6 +1,4 @@
-﻿using Microsoft.Maui.Controls;
-using ScalaParserCORE;
-using System.Collections.Generic;
+﻿using ScalaParserCORE;
 
 namespace ScalaParser
 {
@@ -11,7 +9,7 @@ namespace ScalaParser
             InitializeComponent();
         }
 
-        private void OnParseButtonClicked(object sender, System.EventArgs e)
+        private void OnHalsteadButtonClicked(object sender, System.EventArgs e)
         {
             string scalaCode = TextBox.Text;
 
@@ -23,11 +21,8 @@ namespace ScalaParser
 
             try
             {
-                // Используем ScalaAnalyzer для анализа кода
-                var metrics = MyScalaAnalyzer.AnalyzeScalaCode(scalaCode);
-
-                // Отображаем результаты
-                DisplayMetrics(metrics);
+                var halsteadMetrics = MyScalaAnalyzer.AnalyzeScalaCode(scalaCode);
+                DisplayHalsteadMetrics(halsteadMetrics);
             }
             catch (Exception ex)
             {
@@ -35,7 +30,27 @@ namespace ScalaParser
             }
         }
 
-        private void DisplayMetrics(MetricCalculator metrics)
+        private void OnJilbaButtonClicked(object sender, System.EventArgs e)
+        {
+            string scalaCode = TextBox.Text;
+
+            if (string.IsNullOrWhiteSpace(scalaCode))
+            {
+                DisplayAlert("Ошибка", "Пожалуйста, введите код на Scala.", "OK");
+                return;
+            }
+
+            try
+            {
+                var jilbaMetrics = MyScalaAnalyzer.AnalyzeCode(scalaCode);
+                DisplayJilbaMetrics(jilbaMetrics);
+            }
+            catch (Exception ex)
+            {
+                DisplayAlert("Ошибка", $"Произошла ошибка при парсинге: {ex.Message}", "OK");
+            }
+        }
+        private void DisplayHalsteadMetrics(MetricCalculator metrics)
         {
             var metricsData = new List<object>();
 
@@ -73,7 +88,7 @@ namespace ScalaParser
                     OperandFrequency = operandFreq,
                     OperatorNumber = operatorNum,
                     OperandNumber = operandNum
-                }) ;
+                });
                 metricsData.Add(new
                 {
                     Operator = "______________________________",
@@ -96,6 +111,20 @@ namespace ScalaParser
                                     $"Объем программы: V = {volume:F2}";
         }
 
+        private void DisplayJilbaMetrics(GilbMetricCalculator jilbaMetrics)
+        {
+            var absoluteComplexity = jilbaMetrics.AbsoluteComplexity;
+            var relativeComplexity = jilbaMetrics.RelativeComplexity;
+            var maxNestingLevel = jilbaMetrics.MaxNestingLevel;
+            JilbaInfoLabel.Text = $"Абсолютная сложность программы (CL): {absoluteComplexity} \n" +
+                                  $"Относительная сложность программы (cl): {relativeComplexity} \n" +
+                                  $"Максимальный уровень вложенности (CLI): {maxNestingLevel} ";
+        }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+
+        }
     }
     public class MetricsEntry
     {
@@ -104,4 +133,5 @@ namespace ScalaParser
         public string? Operand { get; set; }
         public string? OperandFrequency { get; set; }
     }
+
 }

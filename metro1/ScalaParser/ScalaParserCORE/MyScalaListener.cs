@@ -1,25 +1,42 @@
 ﻿using Antlr4.Runtime;
 using Antlr4.Runtime.Tree;
 
-namespace ScalaParserCORE { 
-public class MyScalaAnalyzer
+namespace ScalaParserCORE
 {
-    public static MetricCalculator AnalyzeScalaCode(string scalaCode)
+    public class MyScalaAnalyzer
     {
-        var inputStream = new AntlrInputStream(scalaCode);
-        var lexer = new ScalaLexer(inputStream);
-        var tokenStream = new CommonTokenStream(lexer);
-        var parser = new ScalaParser(tokenStream);
+        public static MetricCalculator AnalyzeScalaCode(string scalaCode)
+        {
+            var inputStream = new AntlrInputStream(scalaCode);
+            var lexer = new ScalaLexer(inputStream);
+            var tokenStream = new CommonTokenStream(lexer);
+            var parser = new ScalaParser(tokenStream);
 
-        parser.RemoveErrorListeners(); // Убираем стандартный обработчик ошибок
+            parser.RemoveErrorListeners(); // Убираем стандартный обработчик ошибок
 
-        var tree = parser.compilationUnit(); // Используем корневой нетерминал
+            var tree = parser.compilationUnit(); // Используем корневой нетерминал
 
-        // Анализируем дерево
-        var metrics = new MetricCalculator();
-        metrics.AnalyzeTree(tree);
+            // Анализируем дерево
+            var metrics = new MetricCalculator();
+            metrics.AnalyzeTree(tree);
 
-        return metrics; // Возвращаем результаты анализа
+            return metrics; // Возвращаем результаты анализа
+        }
+
+        public static GilbMetricCalculator AnalyzeCode(string scalaCode)
+        {
+            var inputStream = new AntlrInputStream(scalaCode);
+            var lexer = new ScalaLexer(inputStream);
+            var tokenStream = new CommonTokenStream(lexer);
+            var parser = new ScalaParser(tokenStream);
+
+            parser.RemoveErrorListeners();
+            var tree = parser.compilationUnit();
+
+            var calculator = new GilbMetricCalculator();
+            calculator.AnalyzeTree(tree);
+
+            return calculator;
+        }
     }
-}
 }

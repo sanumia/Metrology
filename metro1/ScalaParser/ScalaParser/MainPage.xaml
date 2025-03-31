@@ -13,9 +13,15 @@
                 <Editor x:Name="TextBox" Placeholder="Введите код на Scala..." HeightRequest="200" Grid.Row="0" Grid.RowSpan="2" Grid.Column="0" />
 
                 <!-- Кнопка для парсинга -->
-                <Button Text="Парсить код" Clicked="OnParseButtonClicked" FontSize="20" Grid.Row="0" Grid.Column="1" VerticalOptions="Center" />
+                <Button Text="По Холстеду" Clicked="OnHalsteadButtonClicked" FontSize="20" Grid.Row="0" Grid.Column="1" VerticalOptions="Center" />
+                <Button Text="По Джилба" Clicked="OnJilbaButtonClicked" FontSize="20" Grid.Row="1" Grid.Column="1" VerticalOptions="Center" />
             </Grid>
-           
+
+            <Label FontAttributes="Bold" FontSize="18" Padding="10" Text="Метрики Джилба: "/>
+            <Label x:Name="JilbaInfoLabel" FontSize="18" Padding="10" Text="Здесь будут метрики Джилба"/>
+
+            <Label FontAttributes="Bold" FontSize="18" Padding="10" Text="Метрики Холстеда: "/>
+
             <!-- Таблица с операторами и операндами -->
             <Grid Padding="10" ColumnDefinitions="*,*,*,*,*,*" RowDefinitions="Auto">
                 <Label Text="Номер (η1)" FontAttributes="Bold" FontSize="16"/>
