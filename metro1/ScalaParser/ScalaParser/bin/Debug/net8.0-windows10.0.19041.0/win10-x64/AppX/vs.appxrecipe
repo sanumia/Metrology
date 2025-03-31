@@ -16,7 +16,8 @@
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
-    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
     <LayoutDir>D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>9A66D99F0E5C0519175C1C0A6C3D379B1B09BD1437FA6AC1B15CA935FF1430FE</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.scalaparser_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
@@ -29,265 +30,265 @@
     <AppXManifest Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-03-08T15:20:07.303</Modified>
+      <Modified>2025-03-31T06:42:01.593</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-03-08T15:20:07.128</Modified>
+      <Modified>2025-03-31T06:42:01.507</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ScalaParser.runtimeconfig.json">
       <PackagePath>ScalaParser.runtimeconfig.json</PackagePath>
-      <Modified>2025-03-06T09:55:06.925</Modified>
+      <Modified>2025-03-30T18:00:58.278</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ScalaParser.dll">
       <PackagePath>ScalaParser.dll</PackagePath>
-      <Modified>2025-03-08T15:20:06.612</Modified>
+      <Modified>2025-03-31T06:42:01.227</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ScalaParser.exe</PackagePath>
-      <Modified>2025-03-08T15:20:06.630</Modified>
+      <Modified>2025-03-31T06:42:01.242</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\Platforms\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2025-03-06T09:53:51.708</Modified>
+      <Modified>2025-03-30T18:00:30.634</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2025-03-06T09:53:52.813</Modified>
+      <Modified>2025-03-30T18:00:31.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2025-03-06T09:53:52.813</Modified>
+      <Modified>2025-03-30T18:00:31.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2025-03-06T09:53:52.813</Modified>
+      <Modified>2025-03-30T18:00:31.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2025-03-06T09:53:52.813</Modified>
+      <Modified>2025-03-30T18:00:31.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2025-03-06T09:53:52.813</Modified>
+      <Modified>2025-03-30T18:00:31.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2025-03-06T09:53:52.802</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2025-03-06T09:53:52.802</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2025-03-06T09:54:45.647</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.636</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.636</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.636</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.636</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.636</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.646</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.646</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.645</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.646</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.646</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.646</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.646</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.646</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.646</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.646</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.647</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.647</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.647</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.647</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.647</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.647</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.647</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.646</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.647</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.646</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.643</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.643</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.643</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.643</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.643</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.645</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.645</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.645</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.645</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.643</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.645</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.645</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.645</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.645</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.645</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.643</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.643</Modified>
+      <Modified>2025-03-30T18:00:31.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.643</Modified>
+      <Modified>2025-03-30T18:00:31.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.643</Modified>
+      <Modified>2025-03-30T18:00:31.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.636</Modified>
+      <Modified>2025-03-30T18:00:31.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.636</Modified>
+      <Modified>2025-03-30T18:00:31.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.636</Modified>
+      <Modified>2025-03-30T18:00:31.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.636</Modified>
+      <Modified>2025-03-30T18:00:31.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.636</Modified>
+      <Modified>2025-03-30T18:00:31.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2025-03-06T09:54:45.636</Modified>
+      <Modified>2025-03-30T18:00:31.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ScalaParser.deps.json">
       <PackagePath>ScalaParser.deps.json</PackagePath>
-      <Modified>2025-03-06T09:55:06.809</Modified>
+      <Modified>2025-03-30T18:00:58.184</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -575,7 +576,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParserCORE\bin\Debug\net8.0\ScalaParserCORE.dll">
       <PackagePath>ScalaParserCORE.dll</PackagePath>
-      <Modified>2025-03-08T15:20:01.256</Modified>
+      <Modified>2025-03-31T06:41:58.047</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\.nuget\packages\microsoft.maui.controls.compatibility\8.0.7\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
