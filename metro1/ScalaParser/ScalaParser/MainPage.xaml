@@ -7,7 +7,7 @@
         <VerticalStackLayout Padding="10">
 
             <!-- Заголовок -->
-            <Label Text="Метрики Холстеда" FontSize="30" HorizontalOptions="Center" />
+            <Label Text="МЕТРИКИ" FontSize="30" HorizontalOptions="Center" />
             <Grid ColumnDefinitions="*,*" RowDefinitions="*,*">
                 <!-- Поле для ввода кода -->
                 <Editor x:Name="TextBox" Placeholder="Введите код на Scala..." HeightRequest="200" Grid.Row="0" Grid.RowSpan="2" Grid.Column="0" />

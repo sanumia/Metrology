@@ -33,10 +33,10 @@ namespace ScalaParserCORE
             parser.RemoveErrorListeners();
             var tree = parser.compilationUnit();
 
-            var calculator = new GilbMetricCalculator();
-            calculator.AnalyzeTree(tree);
+            var metrics = new GilbMetricCalculator();
+            metrics.AnalyzeTree(tree);
 
-            return calculator;
+            return metrics;
         }
     }
 }

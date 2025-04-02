@@ -113,18 +113,15 @@ namespace ScalaParser
 
         private void DisplayJilbaMetrics(GilbMetricCalculator jilbaMetrics)
         {
-            var absoluteComplexity = jilbaMetrics.AbsoluteComplexity;
-            var relativeComplexity = jilbaMetrics.RelativeComplexity;
-            var maxNestingLevel = jilbaMetrics.MaxNestingLevel;
+            int absoluteComplexity = (int)(jilbaMetrics.CL);
+            double relativeComplexity = (jilbaMetrics.CL)/ (double)jilbaMetrics.OperatorCounts.Count;
+            var maxNestingLevel = jilbaMetrics.CLI;
+
             JilbaInfoLabel.Text = $"Абсолютная сложность программы (CL): {absoluteComplexity} \n" +
                                   $"Относительная сложность программы (cl): {relativeComplexity} \n" +
-                                  $"Максимальный уровень вложенности (CLI): {maxNestingLevel} ";
+                                  $"Максимальный уровень вложенности (CLI): {maxNestingLevel - 1} ";
         }
 
-        private void Button_Clicked(object sender, EventArgs e)
-        {
-
-        }
     }
     public class MetricsEntry
     {

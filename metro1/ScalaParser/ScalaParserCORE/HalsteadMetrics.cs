@@ -47,10 +47,10 @@ namespace ScalaParserCORE
         private bool IsOperator(string tokenText)
         {
             string[] operators = {
-                "+", "-", "*", "/", "=", "==", "!=", "<", ">", "<=", ">=",
+              "+", "-", "*", "/", "=", "==", "!=", "<", ">", "<=", ">=",
                 "&&", "||", "::", ".", "=>", "match", "def", "val", "var",
                 "if", "else", "while", "for", "yield", "map", "filter",
-                "foreach", "reduce", "foldLeft", "zip", "mkString"
+                "foreach", "reduce", "foldLeft", "println", "args"
             };
             return Array.Exists(operators, op => op == tokenText);
         }

@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}|ScalaParser\\ScalaParser.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\metrology\\metro1\\scalaparser\\scalaparser\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}|ScalaParser\\ScalaParser.csproj|solutionrelative:scalaparser\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A325C01B-33EA-4159-A6C0-89E1E38722DF}|ScalaParserCORE\\ScalaParserCORE.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\metrology\\metro1\\scalaparser\\scalaparsercore\\gilbmetriccalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A325C01B-33EA-4159-A6C0-89E1E38722DF}|ScalaParserCORE\\ScalaParserCORE.csproj|solutionrelative:scalaparsercore\\gilbmetriccalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A325C01B-33EA-4159-A6C0-89E1E38722DF}|ScalaParserCORE\\ScalaParserCORE.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\metrology\\metro1\\scalaparser\\scalaparsercore\\halsteadmetrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A325C01B-33EA-4159-A6C0-89E1E38722DF}|ScalaParserCORE\\ScalaParserCORE.csproj|solutionrelative:scalaparsercore\\halsteadmetrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}|ScalaParser\\ScalaParser.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\metrology\\metro1\\scalaparser\\scalaparser\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}|ScalaParser\\ScalaParser.csproj|solutionrelative:scalaparser\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A325C01B-33EA-4159-A6C0-89E1E38722DF}|ScalaParserCORE\\ScalaParserCORE.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\metrology\\metro1\\scalaparser\\scalaparsercore\\gilbmetriccalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A325C01B-33EA-4159-A6C0-89E1E38722DF}|ScalaParserCORE\\ScalaParserCORE.csproj|solutionrelative:scalaparsercore\\gilbmetriccalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}|ScalaParser\\ScalaParser.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\metrology\\metro1\\scalaparser\\scalaparser\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}|ScalaParser\\ScalaParser.csproj|solutionrelative:scalaparser\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}|ScalaParser\\ScalaParser.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\metrology\\metro1\\scalaparser\\scalaparser\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}|ScalaParser\\ScalaParser.csproj|solutionrelative:scalaparser\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}|ScalaParser\\ScalaParser.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\metrology\\metro1\\scalaparser\\scalaparser\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}|ScalaParser\\ScalaParser.csproj|solutionrelative:scalaparser\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A325C01B-33EA-4159-A6C0-89E1E38722DF}|ScalaParserCORE\\ScalaParserCORE.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\metrology\\metro1\\scalaparser\\scalaparsercore\\myscalalistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A325C01B-33EA-4159-A6C0-89E1E38722DF}|ScalaParserCORE\\ScalaParserCORE.csproj|solutionrelative:scalaparsercore\\myscalalistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A325C01B-33EA-4159-A6C0-89E1E38722DF}|ScalaParserCORE\\ScalaParserCORE.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\metrology\\metro1\\scalaparser\\scalaparsercore\\halsteadmetrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A325C01B-33EA-4159-A6C0-89E1E38722DF}|ScalaParserCORE\\ScalaParserCORE.csproj|solutionrelative:scalaparsercore\\halsteadmetrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A325C01B-33EA-4159-A6C0-89E1E38722DF}|ScalaParserCORE\\ScalaParserCORE.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\metrology\\metro1\\scalaparser\\scalaparsercore\\metricitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A325C01B-33EA-4159-A6C0-89E1E38722DF}|ScalaParserCORE\\ScalaParserCORE.csproj|solutionrelative:scalaparsercore\\metricitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A325C01B-33EA-4159-A6C0-89E1E38722DF}|ScalaParserCORE\\ScalaParserCORE.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\metrology\\metro1\\scalaparser\\scalaparsercore\\generated\\scalaparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A325C01B-33EA-4159-A6C0-89E1E38722DF}|ScalaParserCORE\\ScalaParserCORE.csproj|solutionrelative:scalaparsercore\\generated\\scalaparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A325C01B-33EA-4159-A6C0-89E1E38722DF}|ScalaParserCORE\\ScalaParserCORE.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\metrology\\metro1\\scalaparser\\scalaparsercore\\generated\\scalalistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A325C01B-33EA-4159-A6C0-89E1E38722DF}|ScalaParserCORE\\ScalaParserCORE.csproj|solutionrelative:scalaparsercore\\generated\\scalalistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A325C01B-33EA-4159-A6C0-89E1E38722DF}|ScalaParserCORE\\ScalaParserCORE.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\metrology\\metro1\\scalaparser\\scalaparsercore\\grammar\\scala.g4||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A325C01B-33EA-4159-A6C0-89E1E38722DF}|ScalaParserCORE\\ScalaParserCORE.csproj|solutionrelative:scalaparsercore\\grammar\\scala.g4||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A325C01B-33EA-4159-A6C0-89E1E38722DF}|ScalaParserCORE\\ScalaParserCORE.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\metrology\\metro1\\scalaparser\\scalaparsercore\\scalaparsercore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -33,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}|ScalaParser\\ScalaParser.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\metrology\\metro1\\scalaparser\\scalaparser\\scalaparser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}|ScalaParser\\ScalaParser.csproj|solutionrelative:scalaparser\\scalaparser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}|ScalaParser\\ScalaParser.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\metrology\\metro1\\scalaparser\\scalaparser\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}|ScalaParser\\ScalaParser.csproj|solutionrelative:scalaparser\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FCE14A4-B312-4E5B-B8A9-2ABFA43D3462}|ScalaParser\\ScalaParser.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\metrology\\metro1\\scalaparser\\scalaparser\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,24 +89,174 @@
       "DocumentGroups": [
         {
           "DockedWidth": 202,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "ScalaListener.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\Generated\\ScalaListener.cs",
+              "RelativeDocumentMoniker": "ScalaParserCORE\\Generated\\ScalaListener.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\Generated\\ScalaListener.cs",
+              "RelativeToolTip": "ScalaParserCORE\\Generated\\ScalaListener.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:31:55.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Scala.g4",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\Grammar\\Scala.g4",
+              "RelativeDocumentMoniker": "ScalaParserCORE\\Grammar\\Scala.g4",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\Grammar\\Scala.g4",
+              "RelativeToolTip": "ScalaParserCORE\\Grammar\\Scala.g4",
+              "ViewState": "AQIAAJcCAAAAAAAAAAAAAJkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-01T11:31:40.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MetricItem.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\MetricItem.cs",
+              "RelativeDocumentMoniker": "ScalaParserCORE\\MetricItem.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\MetricItem.cs",
+              "RelativeToolTip": "ScalaParserCORE\\MetricItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:31:35.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParser\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ScalaParser\\MauiProgram.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParser\\MauiProgram.cs",
+              "RelativeToolTip": "ScalaParser\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:31:29.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParser\\MainPage.xaml",
               "RelativeDocumentMoniker": "ScalaParser\\MainPage.xaml",
               "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParser\\MainPage.xaml",
               "RelativeToolTip": "ScalaParser\\MainPage.xaml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAABZAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-31T06:02:58.18Z",
+              "WhenOpened": "2025-03-31T06:02:58.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyScalaListener.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\MyScalaListener.cs",
+              "RelativeDocumentMoniker": "ScalaParserCORE\\MyScalaListener.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\MyScalaListener.cs",
+              "RelativeToolTip": "ScalaParserCORE\\MyScalaListener.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAhwCgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:16:44.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GilbMetricCalculator.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\GilbMetricCalculator.cs",
+              "RelativeDocumentMoniker": "ScalaParserCORE\\GilbMetricCalculator.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\GilbMetricCalculator.cs",
+              "RelativeToolTip": "ScalaParserCORE\\GilbMetricCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:53:01.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScalaParserCORE",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\ScalaParserCORE.csproj",
+              "RelativeDocumentMoniker": "ScalaParserCORE\\ScalaParserCORE.csproj",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\ScalaParserCORE.csproj",
+              "RelativeToolTip": "ScalaParserCORE\\ScalaParserCORE.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T23:35:31.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HalsteadMetrics.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\HalsteadMetrics.cs",
+              "RelativeDocumentMoniker": "ScalaParserCORE\\HalsteadMetrics.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\HalsteadMetrics.cs",
+              "RelativeToolTip": "ScalaParserCORE\\HalsteadMetrics.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T23:28:36.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParser\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ScalaParser\\MainPage.xaml.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParser\\MainPage.xaml.cs",
+              "RelativeToolTip": "ScalaParser\\MainPage.xaml.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAQwHQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:24:55.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParser\\AppShell.xaml",
+              "RelativeDocumentMoniker": "ScalaParser\\AppShell.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParser\\AppShell.xaml",
+              "RelativeToolTip": "ScalaParser\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T13:28:32.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScalaParser.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\Generated\\ScalaParser.cs",
+              "RelativeDocumentMoniker": "ScalaParserCORE\\Generated\\ScalaParser.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\Generated\\ScalaParser.cs",
+              "RelativeToolTip": "ScalaParserCORE\\Generated\\ScalaParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:31:58.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParser\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "ScalaParser\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParser\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "ScalaParser\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T23:56:48.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ScalaParserCORE.csproj",
               "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\ScalaParserCORE.csproj",
               "RelativeDocumentMoniker": "ScalaParserCORE\\ScalaParserCORE.csproj",
@@ -99,82 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MyScalaListener.cs",
-              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\MyScalaListener.cs",
-              "RelativeDocumentMoniker": "ScalaParserCORE\\MyScalaListener.cs",
-              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\MyScalaListener.cs",
-              "RelativeToolTip": "ScalaParserCORE\\MyScalaListener.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAD4vyMAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T01:16:44.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GilbMetricCalculator.cs",
-              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\GilbMetricCalculator.cs",
-              "RelativeDocumentMoniker": "ScalaParserCORE\\GilbMetricCalculator.cs",
-              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\GilbMetricCalculator.cs",
-              "RelativeToolTip": "ScalaParserCORE\\GilbMetricCalculator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T05:53:01.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainApplication.cs",
-              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParser\\Platforms\\Android\\MainApplication.cs",
-              "RelativeDocumentMoniker": "ScalaParser\\Platforms\\Android\\MainApplication.cs",
-              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParser\\Platforms\\Android\\MainApplication.cs",
-              "RelativeToolTip": "ScalaParser\\Platforms\\Android\\MainApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T23:56:48.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ScalaParserCORE",
-              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\ScalaParserCORE.csproj",
-              "RelativeDocumentMoniker": "ScalaParserCORE\\ScalaParserCORE.csproj",
-              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\ScalaParserCORE.csproj",
-              "RelativeToolTip": "ScalaParserCORE\\ScalaParserCORE.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T23:35:31.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HalsteadMetrics.cs",
-              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\HalsteadMetrics.cs",
-              "RelativeDocumentMoniker": "ScalaParserCORE\\HalsteadMetrics.cs",
-              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\HalsteadMetrics.cs",
-              "RelativeToolTip": "ScalaParserCORE\\HalsteadMetrics.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAIwB4AAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T23:28:36.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParser\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "ScalaParser\\MainPage.xaml.cs",
-              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParser\\MainPage.xaml.cs",
-              "RelativeToolTip": "ScalaParser\\MainPage.xaml.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAowDIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T13:24:55.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "ScalaBaseListener.cs",
               "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParserCORE\\Generated\\ScalaBaseListener.cs",
               "RelativeDocumentMoniker": "ScalaParserCORE\\Generated\\ScalaBaseListener.cs",
@@ -182,11 +277,12 @@
               "RelativeToolTip": "ScalaParserCORE\\Generated\\ScalaBaseListener.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAvwCQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T10:05:03.645Z"
+              "WhenOpened": "2025-03-06T10:05:03.645Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "app.manifest",
               "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParser\\Platforms\\Windows\\app.manifest",
               "RelativeDocumentMoniker": "ScalaParser\\Platforms\\Windows\\app.manifest",
@@ -194,11 +290,12 @@
               "RelativeToolTip": "ScalaParser\\Platforms\\Windows\\app.manifest",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
-              "WhenOpened": "2025-03-05T23:20:40.027Z"
+              "WhenOpened": "2025-03-05T23:20:40.027Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "MainActivity.cs",
               "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParser\\Platforms\\Android\\MainActivity.cs",
               "RelativeDocumentMoniker": "ScalaParser\\Platforms\\Android\\MainActivity.cs",
@@ -206,11 +303,12 @@
               "RelativeToolTip": "ScalaParser\\Platforms\\Android\\MainActivity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T23:20:03.264Z"
+              "WhenOpened": "2025-03-05T23:20:03.264Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "AndroidManifest.xml",
               "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParser\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeDocumentMoniker": "ScalaParser\\Platforms\\Android\\AndroidManifest.xml",
@@ -221,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "ScalaParser.csproj",
               "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParser\\ScalaParser.csproj",
               "RelativeDocumentMoniker": "ScalaParser\\ScalaParser.csproj",
@@ -229,29 +327,19 @@
               "RelativeToolTip": "ScalaParser\\ScalaParser.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T23:06:54.75Z"
+              "WhenOpened": "2025-03-05T23:06:54.75Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Xamarin.Android.Common.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Common.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Common.targets",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-03-05T22:23:02.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParser\\AppShell.xaml",
-              "RelativeDocumentMoniker": "ScalaParser\\AppShell.xaml",
-              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\Metrology\\metro1\\ScalaParser\\ScalaParser\\AppShell.xaml",
-              "RelativeToolTip": "ScalaParser\\AppShell.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-05T13:28:32.857Z"
+              "WhenOpened": "2025-03-05T22:23:02.817Z",
+              "EditorCaption": ""
             }
           ]
         }
