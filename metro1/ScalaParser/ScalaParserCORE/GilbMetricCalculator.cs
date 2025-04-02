@@ -18,7 +18,7 @@ namespace ScalaParserCORE
 
         private Dictionary<string, int> operatorCounts = new Dictionary<string, int>();
         private Dictionary<string, int> operandCounts = new Dictionary<string, int>();
-        private Stack<int> ifStack = new Stack<int>(); // Стек для отслеживания вложенности
+        private Stack<int> conditionalStack = new Stack<int>(); // Стек для отслеживания вложенности
 
         public void AnalyzeTree(IParseTree node)
         {
@@ -29,33 +29,16 @@ namespace ScalaParserCORE
                 switch (tokenText)
                 {
                     case "if":
-                    case "match":
-                        // Нашли новое условие
                         CL++;
-                        ifStack.Push(ifStack.Count + 1); // Увеличиваем глубину
-                        CLI = Math.Max(CLI, ifStack.Peek());
+                        conditionalStack.Push(conditionalStack.Count + 1);
+                        CLI = Math.Max(CLI, conditionalStack.Peek());
                         break;
 
-                    case "{":
-                        // Вход в новый блок
-                        if (ifStack.Count > 0)
-                        {
-                            CLI = Math.Max(CLI, ifStack.Peek());
-                        }
-                        break;
-
-                    case "}":
-                        // Выход из блока
-                        if (ifStack.Count > 0 && node.Parent.ChildCount > 0)
-                        {
-                            // Проверяем, был ли это блок условия
-                            var firstChild = node.Parent.GetChild(0);
-                            if (firstChild is TerminalNodeImpl firstTerminal &&
-                                (firstTerminal.GetText() == "if" || firstTerminal.GetText() == "match"))
-                            {
-                                ifStack.Pop();
-                            }
-                        }
+                    case "match":
+                        // Для match увеличиваем CL, но не учитываем вложенность
+                        CL++;
+                        conditionalStack.Push(conditionalStack.Count + 1);
+                        CLI = Math.Max(CLI, conditionalStack.Peek());
                         break;
                 }
 
@@ -79,9 +62,46 @@ namespace ScalaParserCORE
                 }
             }
 
-            for (int i = 0; i < node.ChildCount; i++)
+            // Обработка блоков
+            if (node is Antlr4.Runtime.ParserRuleContext ctx)
             {
-                AnalyzeTree(node.GetChild(i));
+                bool isConditionalBlock = false;
+
+                // Проверяем, начинается ли блок с if или match
+                if (node.ChildCount > 0 && node.GetChild(0) is TerminalNodeImpl firstChild)
+                {
+                    string firstToken = firstChild.GetText();
+                    isConditionalBlock = firstToken == "if" || firstToken == "match";
+                }
+
+                if (isConditionalBlock)
+                {
+                    for (int i = 0; i < node.ChildCount; i++)
+                    {
+                        AnalyzeTree(node.GetChild(i));
+                    }
+
+                    // Уменьшаем стек только для if
+                    if (node.GetChild(0) is TerminalNodeImpl term && (term.GetText() == "if" || term.GetText() == "match"))
+                    {
+                        if (conditionalStack.Count > 0)
+                            conditionalStack.Pop();
+                    }
+                }
+                else
+                {
+                    for (int i = 0; i < node.ChildCount; i++)
+                    {
+                        AnalyzeTree(node.GetChild(i));
+                    }
+                }
+            }
+            else
+            {
+                for (int i = 0; i < node.ChildCount; i++)
+                {
+                    AnalyzeTree(node.GetChild(i));
+                }
             }
         }
 
@@ -89,7 +109,7 @@ namespace ScalaParserCORE
         {
             string[] operators = {
                 "+", "-", "*", "/", "=", "==", "!=", "<", ">", "<=", ">=",
-                "&&", "||", "::", ".", "=>", "match", "def", "val", "var",
+                "&&", "||", "::", ".", "=>", "match", "case", "def", "val", "var",
                 "if", "else", "while", "for", "yield", "map", "filter",
                 "foreach", "reduce", "foldLeft", "println", "args"
             };

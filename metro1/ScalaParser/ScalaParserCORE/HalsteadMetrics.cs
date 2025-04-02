@@ -48,7 +48,7 @@ namespace ScalaParserCORE
         {
             string[] operators = {
               "+", "-", "*", "/", "=", "==", "!=", "<", ">", "<=", ">=",
-                "&&", "||", "::", ".", "=>", "match", "def", "val", "var",
+                "&&", "||", "::", ".", "=>", "match","case", "def", "val", "var",
                 "if", "else", "while", "for", "yield", "map", "filter",
                 "foreach", "reduce", "foldLeft", "println", "args"
             };

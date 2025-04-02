@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-04-02T14:45:46.697</Modified>
+      <Modified>2025-04-02T16:15:10.009</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-04-02T14:45:46.619</Modified>
+      <Modified>2025-04-02T16:15:09.325</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ScalaParser.runtimeconfig.json">
       <PackagePath>ScalaParser.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ScalaParser.dll">
       <PackagePath>ScalaParser.dll</PackagePath>
-      <Modified>2025-04-02T14:45:46.337</Modified>
+      <Modified>2025-04-02T16:15:05.313</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ScalaParser.exe</PackagePath>
-      <Modified>2025-04-02T14:45:46.341</Modified>
+      <Modified>2025-04-02T16:15:05.481</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParser\Platforms\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -576,7 +576,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Универ\Metrology\metro1\ScalaParser\ScalaParserCORE\bin\Debug\net8.0\ScalaParserCORE.dll">
       <PackagePath>ScalaParserCORE.dll</PackagePath>
-      <Modified>2025-04-02T14:45:43.066</Modified>
+      <Modified>2025-04-02T16:38:57.306</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\.nuget\packages\microsoft.maui.controls.compatibility\8.0.7\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
